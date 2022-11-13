@@ -15,7 +15,7 @@
     {
       "text": " test task",
       "day": " Nov 13th at 11.00am",
-      "reminder": false,
+      "reminder": true,
       "id": 4
     },
     {
@@ -23,6 +23,6 @@
       "day": " Nov 13th at 11.05am",
       "reminder": true,
       "id": 5
-    }
+    },
   ]
 }
