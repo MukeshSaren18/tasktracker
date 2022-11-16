@@ -1,6 +1,6 @@
 Get Started with TaskTracker
 
-with the use of Task Tracker we can keep track of our tasks
+with the use of TaskTracker we can keep track of our tasks
 
 The tasktrackersweb is created using react js with hooks and redux
 
