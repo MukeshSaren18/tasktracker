@@ -8,7 +8,7 @@ The tasktrackersweb is created using react js with hooks and redux
 
 with help of Add button you can add tasks to your task list
 
-you can delete the task with the ![image](https://user-images.githubusercontent.com/81287953/202247224-fe23c4e5-8a53-4b22-9fed-0463c9969b17.png)
+you can delete the task with the ✖
 
 ![Screenshot (124)](https://user-images.githubusercontent.com/81287953/202246754-c0541663-8c22-40b6-a539-d6e724e30488.png)
 
