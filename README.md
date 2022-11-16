@@ -1,6 +1,6 @@
 Get Started with TaskTracker
 
-with the use of https://tasktrackersweb.netlify.app we can keep track of our tasks
+with the use of Task Tracker we can keep track of our tasks
 
 The tasktrackersweb is created using react js with hooks and redux
 
@@ -8,7 +8,7 @@ The tasktrackersweb is created using react js with hooks and redux
 
 with help of Add button you can add tasks to your task list
 
-you can delete the task with the ✖
+you can delete the task with the ⓧ
 
 ![Screenshot (124)](https://user-images.githubusercontent.com/81287953/202246754-c0541663-8c22-40b6-a539-d6e724e30488.png)
 
